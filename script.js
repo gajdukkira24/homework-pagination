@@ -1,4 +1,5 @@
-const API_KEY = "41711044-xxxxxxxxxxxxxxxxxxxx";
+const API_KEY = "53449198-324ac466db849c58ac5cc259a";
+
  
 const PER_PAGE = 12; 
 
